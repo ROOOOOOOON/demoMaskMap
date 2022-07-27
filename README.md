@@ -1,5 +1,9 @@
 # demoMaskMap
 
-Only practising ajax to get open data & OSM map for demo
+Only practising ajax to get open-data & print on OSM map(leaflet.js) for demo
 
-It will be update, maybe
+It will be update
+
+maybe
+
+just maybe
